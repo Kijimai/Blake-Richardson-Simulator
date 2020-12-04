@@ -1,6 +1,10 @@
 body {
   text-align: center;
-  background-color: #283149;
+  background: linear-gradient(
+    to bottom,
+    rgba(255, 33, 33, 0.5),
+    rgba(251, 255, 36, 0.7)
+  ),url(/images/guy-fieiri-flame.jpg);
 }
 
 h1 {
